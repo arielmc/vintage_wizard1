@@ -1,2 +1,2 @@
 # vintage_wizard1
-Created with CodeSandbox
+ongoing itterations in a solutioning sprint
